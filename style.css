@@ -187,7 +187,7 @@ ul { list-style: none; }
   display: flex;
   align-items: center;
   gap: 24px;
-  padding-block: 14px;
+  padding-block: 8px;
 }
 .logo {
   display: flex;
